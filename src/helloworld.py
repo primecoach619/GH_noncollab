@@ -2,6 +2,6 @@ def hello_world(city):
     print(f'Hello World from {city}')
 
 def main():
-    hello_world('Chula Vista, CA!')
+    hello_world('San Diego, CA!')
 
 main()
